@@ -3,17 +3,17 @@
 <!-- Header Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Hello!%20I'm%20Tahzeeb&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- Profile Picture Placeholder (Aap yahan apni photo ka link daal sakte hain) -->
-<!-- <img src="YOUR_PROFILE_PHOTO_LINK" width="150" style="border-radius: 50%;" /> -->
+<!-- Profile Picture (Apni photo ka link yahan daalein, abhi placeholder hai) -->
+<img src="https://via.placeholder.com/150" width="150" style="border-radius: 50%;" alt="Profile Picture" />
+
+<br>
 
 ### 👨‍💻 Manual QA Tester | Freelance | Billing & Payment Domain
 
 I am a freelance manual tester with hands-on experience in testing web and mobile applications across multiple domains like Billing, Education, Real Estate, and F&B. I specialize in UI, Payment, Regression, and Role-based testing, ensuring high-quality software delivery.
 
-<!-- Stats Section -->
-<img src="https://img.shields.io/badge/Experience-1%2B%20Years-blue?style=for-the-badge" alt="Experience" />
-<img src="https://img.shields.io/badge/Paid%20Projects-4%2B-purple?style=for-the-badge" alt="Projects" />
-<img src="https://img.shields.io/badge/Test%20Cases-500%2B-orange?style=for-the-badge" alt="Test Cases" />
+<!-- Blue Stats Box (Exact Screenshot Style) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=FFFFFF&background=3B82F6&center=true&vCenter=true&width=600&height=100&lines=13+Verified+Skills+%7C+4+Projects+%7C+500%2B+Test+Cases" alt="Stats Box" style="border-radius: 15px; margin-top: 20px;" />
 
 </div>
 
