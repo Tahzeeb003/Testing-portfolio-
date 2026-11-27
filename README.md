@@ -3,8 +3,8 @@
 <!-- Header Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Hello!%20I'm%20Tahzeeb&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- Profile Picture ([(https://kommodo.ai/i/FRv6yRg0eU8M9qsicHn4)]) -->
-<img src="https://via.placeholder.com/150" width="150" style="border-radius: 50%;" alt="Profile Picture" />
+<!-- Profile Picture (Aapki Photo) -->
+<img src="https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ff5xpqlj17cc9wr026ck" width="150" style="border-radius: 50%;" alt="Profile Picture" />
 
 <br>
 
@@ -13,7 +13,7 @@
 I am a freelance manual tester with hands-on experience in testing web and mobile applications across multiple domains like Billing, Education, Real Estate, and F&B. I specialize in UI, Payment, Regression, and Role-based testing, ensuring high-quality software delivery.
 
 <!-- Blue Stats Box (Exact Screenshot Style) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=FFFFFF&background=3B82F6&center=true&vCenter=true&width=600&height=100&lines=13+Verified+Skills+%7C+4+Projects+%7C+500%2B+Test+Cases" alt="Stats Box" style="border-radius: 15px; margin-top: 20px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=FFFFFF&background=3B82F6&center=true&vCenter=true&width=600&height=100&lines=8+Verified+Skills+%7C+4+Projects+%7C+500%2B+Test+Cases" alt="Stats Box" style="border-radius: 15px; margin-top: 20px;" />
 
 </div>
 
