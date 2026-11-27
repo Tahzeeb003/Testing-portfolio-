@@ -3,7 +3,7 @@
 <!-- Header Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Hello!%20I'm%20Tahzeeb&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- Profile Picture (Apni photo ka link yahan daalein, abhi placeholder hai) -->
+<!-- Profile Picture ([(https://kommodo.ai/i/FRv6yRg0eU8M9qsicHn4)]) -->
 <img src="https://via.placeholder.com/150" width="150" style="border-radius: 50%;" alt="Profile Picture" />
 
 <br>
