@@ -3,8 +3,8 @@
 <!-- Header Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Hello!%20I'm%20Tahzeeb&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- Profile Picture (Make sure to upload as profile.jpg in your Tahzeeb003 repo) -->
-<img src="https://github.com/Tahzeeb003/Tahzeeb003/raw/main/profile.jpg" width="180" style="border-radius: 50%; margin-top: 20px;" alt="Profile Picture" />
+<!-- Profile Picture -->
+<img src="https://raw.githubusercontent.com/Tahzeeb003/Testing-portfolio/main/profile.jpg" width="180" style="border-radius: 50%; margin-top: 20px;" alt="Profile Picture" />
 
 <br><br>
 
@@ -14,123 +14,12 @@ I am a freelance manual tester with hands-on experience in testing web and mobil
 
 <br>
 
-<!-- Blue Stats Box (Crio Style using HTML Table) -->
-<table style="background-color: #3B82F6; border-radius: 15px; width: 80%; max-width: 600px; margin: 0 auto; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 20px; border-right: 1px solid white; width: 33%;">
-      <h2 style="color: white; margin: 0; font-size: 36px;">8</h2>
-      <p style="color: white; margin: 0; font-size: 12px; font-weight: bold;">VERIFIED<br>SKILLS</p>
-    </td>
-    <td align="center" style="padding: 20px; border-right: 1px solid white; width: 33%;">
-      <h2 style="color: white; margin: 0; font-size: 36px;">4</h2>
-      <p style="color: white; margin: 0; font-size: 12px; font-weight: bold;">PROFESSIONAL<br>PROJECTS</p>
-    </td>
-    <td align="center" style="padding: 20px; width: 33%;">
-      <h2 style="color: white; margin: 0; font-size: 36px;">500+</h2>
-      <p style="color: white; margin: 0; font-size: 12px; font-weight: bold;">TEST CASES<br>EXECUTED</p>
-    </td>
-  </tr>
-</table>
+<!-- Crio Style Blue Stats Box (Using SVG) -->
+<img src="https://raw.githubusercontent.com/Tahzeeb003/Testing-portfolio/main/stats-box.svg" alt="Stats Box" width="600" style="border-radius: 15px;" />
 
 </div>
 
 <br><br>
 
 <h2 align="center">🛠️ Skills & Tools Acquired</h2>
-
-<div align="center">
-  <!-- Tech Stack Icons -->
-  <img src="https://img.shields.io/badge/Manual_Testing-4A90E2?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI_Testing-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Payment_Testing-2ECC71?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regression_Testing-F39C12?style=for-the-badge&logo=repeat&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</div>
-
-<br><br>
-
-<h2 align="center">🚀 My Projects</h2>
-
-<!-- PROJECT 1: QK BILLS -->
-<div align="center">
-  <h3>🧾 QK Bills — Multi-Domain Billing Software</h3>
-  <img src="https://via.placeholder.com/600x300/2b3137/ffffff?text=QK+Bills+Billing+Software" alt="QK Bills" width="600" style="border-radius: 10px;"/>
-  
-  **Role:** Freelance Manual Tester | **Client:** Codbos Software Pvt Ltd | **Duration:** 1+ Year
-  
-  *Tested restaurant, pharmacy, and retail billing modules from project inception.*
-  *Performed UI, payment, functional, retesting, and regression testing.*
-  *Identified 50+ defects including 15+ critical payment-related issues.*
-  
-  <img src="https://img.shields.io/badge/Payment_Testing-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Regression_Testing-green?style=flat-square" /> <img src="https://img.shields.io/badge/Excel-orange?style=flat-square" />
-  
-  <a href="YOUR_REPO_LINK_HERE"><img src="https://img.shields.io/badge/View_Project_Details-1e3a8a?style=for-the-badge" /></a>
-</div>
-<br><hr><br>
-
-<!-- PROJECT 2: TAKSHASHILA VIDYAPITH -->
-<div align="center">
-  <h3>🏫 Takshashila Vidyapith — Government School Website</h3>
-  <img src="https://via.placeholder.com/600x300/2b3137/ffffff?text=Takshashila+Vidyapith+School+Website" alt="Takshashila" width="600" style="border-radius: 10px;"/>
-  
-  **Role:** Freelance Manual Tester | **Client:** Codbos Software Pvt Ltd | **Duration:** 2 Months
-  
-  *A government school website tested across 5 roles: Admin, Super Admin, HOD, Teacher, Student.*
-  *Performed role-based access, functional, UI, and regression testing.*
-  *Ensured data privacy and verified that each role sees only authorized features.*
-  
-  <img src="https://img.shields.io/badge/Role--Based_Testing-blue?style=flat-square" /> <img src="https://img.shields.io/badge/UI_Testing-red?style=flat-square" /> <img src="https://img.shields.io/badge/Google_Sheets-green?style=flat-square" />
-  
-  <a href="YOUR_REPO_LINK_HERE"><img src="https://img.shields.io/badge/View_Project_Details-1e3a8a?style=for-the-badge" /></a>
-</div>
-<br><hr><br>
-
-<!-- PROJECT 3: QUARTROS -->
-<div align="center">
-  <h3>📱 Quartros — Restaurant Android App</h3>
-  <img src="https://via.placeholder.com/600x300/2b3137/ffffff?text=Quartros+Restaurant+App" alt="Quartros" width="600" style="border-radius: 10px;"/>
-  
-  **Role:** Freelance Manual Tester | **Client:** Codbos Software Pvt Ltd | **Duration:** 3 Months (iOS Ongoing)
-  
-  *Tested a multi-branch restaurant app (launched on Play Store).*
-  *Performed complete payment method testing and retesting.*
-  *Currently involved in iOS testing to ensure cross-platform stability.*
-  
-  <img src="https://img.shields.io/badge/Mobile_Testing-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Payment_Testing-green?style=flat-square" /> <img src="https://img.shields.io/badge/Retesting-orange?style=flat-square" />
-  
-  <a href="YOUR_REPO_LINK_HERE"><img src="https://img.shields.io/badge/View_Project_Details-1e3a8a?style=for-the-badge" /></a>
-</div>
-<br><hr><br>
-
-<!-- PROJECT 4: DREAM PLOTS -->
-<div align="center">
-  <h3>🏡 Dream Plots — Real Estate Web Application</h3>
-  <img src="https://via.placeholder.com/600x300/2b3137/ffffff?text=Dream+Plots+Real+Estate" alt="Dream Plots" width="600" style="border-radius: 10px;"/>
-  
-  **Role:** Manual QA Engineer | **Duration:** [Aapka Duration]
-  
-  *Performed end-to-end testing of property listing, search, and booking workflows.*
-  *Designed and executed 300+ test cases for login, filters, and dashboards.*
-  *Conducted regression and cross-browser testing to ensure application stability.*
-  
-  <img src="https://img.shields.io/badge/Cross--Browser-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Test_Case_Design-green?style=flat-square" /> <img src="https://img.shields.io/badge/Bug_Reporting-red?style=flat-square" />
-  
-  <a href="YOUR_REPO_LINK_HERE"><img src="https://img.shields.io/badge/View_Project_Details-1e3a8a?style=for-the-badge" /></a>
-</div>
-<br><hr><br>
-
-<!-- CONNECT SECTION -->
-<div align="center">
-  <h2>🤝 Connect With Me</h2>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
-<br>
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Tahzeeb003">Tahzeeb003</a></i>
-</div>
+... (Baaki ka code same rahega)
