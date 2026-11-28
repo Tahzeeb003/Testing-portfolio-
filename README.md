@@ -12,8 +12,8 @@
 
 I am a freelance manual tester with hands-on experience in testing web and mobile applications across multiple domains like Billing, Education, Real Estate, and F&B. I specialize in UI, Payment, Regression, and Role-based testing, ensuring high-quality software delivery.
 
-<!-- Blue Stats Box (Exact Screenshot Style) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=FFFFFF&background=3B82F6&center=true&vCenter=true&width=600&height=100&lines=8+Verified+Skills+%7C+4+Projects+%7C+500%2B+Test+Cases" alt="Stats Box" style="border-radius: 15px; margin-top: 20px;" />
+<div class="bg-portfolio-secondary text-white rounded-[20px] flex gap-y-2 md:gap-0 justify-around items-center mt-6 min-h-[100px] p-2 md:p-0"><div class="text-center flex-1 md:border-r-white md:border-r-[1px] last:border-r-0 flex flex-col justify-center items-center md:h-[100px]"><span class="text-3xl md:text-5xl font-bold">13</span> <p class="text-[8px] md:text-[12px] w-max px-3">VERIFIED<br class="block md:hidden"> SKILLS</p></div><div class="text-center flex-1 md:border-r-white md:border-r-[1px] last:border-r-0 flex flex-col justify-center items-center md:h-[100px]"><span class="text-3xl md:text-5xl font-bold">10</span> <p class="text-[8px] md:text-[12px] w-max px-3">PROFESSIONAL<br class="block md:hidden"> PROJECTS</p></div><div class="text-center flex-1 md:border-r-white md:border-r-[1px] last:border-r-0 flex flex-col justify-center items-center md:h-[100px]"><span class="text-3xl md:text-5xl font-bold">50+</span> <p class="text-[8px] md:text-[12px] w-max px-3">DSA PROBLEMS<br class="block md:hidden"> SOLVED</p></div></div>
+
 
 </div>
 
