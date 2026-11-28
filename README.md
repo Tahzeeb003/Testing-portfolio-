@@ -3,21 +3,38 @@
 <!-- Header Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=200&section=header&text=Hello!%20I'm%20Tahzeeb&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<!-- Profile Picture (Aapki Photo) -->
-<img src="https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ff5xpqlj17cc9wr026ck" width="150" style="border-radius: 50%;" alt="Profile Picture" />
+<!-- Profile Picture (Make sure to upload as profile.jpg in your Tahzeeb003 repo) -->
+<img src="https://github.com/Tahzeeb003/Tahzeeb003/raw/main/profile.jpg" width="180" style="border-radius: 50%; margin-top: 20px;" alt="Profile Picture" />
 
-<br>
+<br><br>
 
 ### 👨‍💻 Manual QA Tester | Freelance | Billing & Payment Domain
 
 I am a freelance manual tester with hands-on experience in testing web and mobile applications across multiple domains like Billing, Education, Real Estate, and F&B. I specialize in UI, Payment, Regression, and Role-based testing, ensuring high-quality software delivery.
 
-<div class="bg-portfolio-secondary text-white rounded-[20px] flex gap-y-2 md:gap-0 justify-around items-center mt-6 min-h-[100px] p-2 md:p-0"><div class="text-center flex-1 md:border-r-white md:border-r-[1px] last:border-r-0 flex flex-col justify-center items-center md:h-[100px]"><span class="text-3xl md:text-5xl font-bold">13</span> <p class="text-[8px] md:text-[12px] w-max px-3">VERIFIED<br class="block md:hidden"> SKILLS</p></div><div class="text-center flex-1 md:border-r-white md:border-r-[1px] last:border-r-0 flex flex-col justify-center items-center md:h-[100px]"><span class="text-3xl md:text-5xl font-bold">10</span> <p class="text-[8px] md:text-[12px] w-max px-3">PROFESSIONAL<br class="block md:hidden"> PROJECTS</p></div><div class="text-center flex-1 md:border-r-white md:border-r-[1px] last:border-r-0 flex flex-col justify-center items-center md:h-[100px]"><span class="text-3xl md:text-5xl font-bold">50+</span> <p class="text-[8px] md:text-[12px] w-max px-3">DSA PROBLEMS<br class="block md:hidden"> SOLVED</p></div></div>
+<br>
 
+<!-- Blue Stats Box (Crio Style using HTML Table) -->
+<table style="background-color: #3B82F6; border-radius: 15px; width: 80%; max-width: 600px; margin: 0 auto; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 20px; border-right: 1px solid white; width: 33%;">
+      <h2 style="color: white; margin: 0; font-size: 36px;">8</h2>
+      <p style="color: white; margin: 0; font-size: 12px; font-weight: bold;">VERIFIED<br>SKILLS</p>
+    </td>
+    <td align="center" style="padding: 20px; border-right: 1px solid white; width: 33%;">
+      <h2 style="color: white; margin: 0; font-size: 36px;">4</h2>
+      <p style="color: white; margin: 0; font-size: 12px; font-weight: bold;">PROFESSIONAL<br>PROJECTS</p>
+    </td>
+    <td align="center" style="padding: 20px; width: 33%;">
+      <h2 style="color: white; margin: 0; font-size: 36px;">500+</h2>
+      <p style="color: white; margin: 0; font-size: 12px; font-weight: bold;">TEST CASES<br>EXECUTED</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br>
+<br><br>
 
 <h2 align="center">🛠️ Skills & Tools Acquired</h2>
 
@@ -41,7 +58,6 @@ I am a freelance manual tester with hands-on experience in testing web and mobil
 <!-- PROJECT 1: QK BILLS -->
 <div align="center">
   <h3>🧾 QK Bills — Multi-Domain Billing Software</h3>
-  <!-- Replace with your project image -->
   <img src="https://via.placeholder.com/600x300/2b3137/ffffff?text=QK+Bills+Billing+Software" alt="QK Bills" width="600" style="border-radius: 10px;"/>
   
   **Role:** Freelance Manual Tester | **Client:** Codbos Software Pvt Ltd | **Duration:** 1+ Year
@@ -59,7 +75,6 @@ I am a freelance manual tester with hands-on experience in testing web and mobil
 <!-- PROJECT 2: TAKSHASHILA VIDYAPITH -->
 <div align="center">
   <h3>🏫 Takshashila Vidyapith — Government School Website</h3>
-  <!-- Replace with your project image -->
   <img src="https://via.placeholder.com/600x300/2b3137/ffffff?text=Takshashila+Vidyapith+School+Website" alt="Takshashila" width="600" style="border-radius: 10px;"/>
   
   **Role:** Freelance Manual Tester | **Client:** Codbos Software Pvt Ltd | **Duration:** 2 Months
@@ -77,7 +92,6 @@ I am a freelance manual tester with hands-on experience in testing web and mobil
 <!-- PROJECT 3: QUARTROS -->
 <div align="center">
   <h3>📱 Quartros — Restaurant Android App</h3>
-  <!-- Replace with your project image -->
   <img src="https://via.placeholder.com/600x300/2b3137/ffffff?text=Quartros+Restaurant+App" alt="Quartros" width="600" style="border-radius: 10px;"/>
   
   **Role:** Freelance Manual Tester | **Client:** Codbos Software Pvt Ltd | **Duration:** 3 Months (iOS Ongoing)
@@ -95,7 +109,6 @@ I am a freelance manual tester with hands-on experience in testing web and mobil
 <!-- PROJECT 4: DREAM PLOTS -->
 <div align="center">
   <h3>🏡 Dream Plots — Real Estate Web Application</h3>
-  <!-- Replace with your project image -->
   <img src="https://via.placeholder.com/600x300/2b3137/ffffff?text=Dream+Plots+Real+Estate" alt="Dream Plots" width="600" style="border-radius: 10px;"/>
   
   **Role:** Manual QA Engineer | **Duration:** [Aapka Duration]
